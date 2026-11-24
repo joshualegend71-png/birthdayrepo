@@ -1,0 +1,22 @@
+{
+  "name": "gracefully-sixty",
+  "private": true,
+  "type": "module",
+  "description": "#GracefullySixty – 60th birthday celebration website for Mrs Taiwo Oso and Mrs Kehinde Anifowose",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "build": "npm run install:all && npm run build --prefix client",
+    "build:client": "npm install --prefix client && npm run build --prefix client",
+    "start": "npm start --prefix server",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "test": "npm test --prefix server"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
+    "express": "^5.1.0"
+  }
+}

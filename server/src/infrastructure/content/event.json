@@ -1,0 +1,70 @@
+{
+  "hashtag": "#GracefullySixty",
+  "title": "Two Lives, One Divine Story",
+  "heroLine": "we are celebrating 60 💜",
+  "tagline": "60 years of God's faithfulness",
+  "coverImage": {
+    "url": "https://res.cloudinary.com/dil28lwom/image/upload/c_limit,w_1600,q_auto,f_auto/v1795249837/eumkixactrwq9cx2ghb2.jpg",
+    "alt": "Mrs Taiwo Oso and Mrs Kehinde Anifowose"
+  },
+
+  "celebrants": [
+    { "id": "taiwo", "title": "Mrs", "firstName": "Taiwo", "lastName": "Oso", "image": null },
+    { "id": "kehinde", "title": "Mrs", "firstName": "Kehinde", "lastName": "Anifowose", "image": null }
+  ],
+
+  "sectionTitles": {
+    "celebrants": "GRACE",
+    "event": "FAITHFULNESS"
+  },
+
+  "event": {
+    "name": "60th Birthday Celebration",
+    "date": "2026-12-12",
+    "startTime": "10:00",
+    "endTime": "16:30",
+    "utcOffset": "+01:00",
+    "timeZone": "Africa/Lagos",
+    "venue": "Akesan Hall",
+    "address": "Iperu Road, Iperu Remo, Ogun State",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akesan+Hall+Iperu+Remo+Ogun+State"
+  },
+
+  "dressCode": {
+    "colours": [
+      { "name": "Purple", "hex": "#c926bc" },
+      { "name": "Plum", "hex": "#8b3a62" }
+    ],
+    "note": "Wear whatever makes you feel your most beautiful, elegant and comfortable, with a touch of purple to complete the look."
+  },
+
+  "entryRules": [
+    "Entry is strictly by invitation.",
+    "Each invitation admits one guest only."
+  ],
+
+  "faq": [
+    { "question": "Can I bring a plus one?", "answer": "No. Each invitation admits one guest only." },
+    { "question": "What should I wear?", "answer": "Wear whatever makes you feel your most beautiful, elegant and comfortable, with a touch of purple to complete the look." },
+    { "question": "Can I bring a gift?", "answer": "Absolutely! Your love, prayers and thoughtful gifts are warmly appreciated." },
+    { "question": "What time does it end?", "answer": "The celebration ends at 4:30 PM." }
+  ],
+
+  "gifts": {
+    "message": "Your presence is enough of a present to us. But if you would like to bless the celebrants, your love, prayers and thoughtful gifts are warmly appreciated.",
+    "accounts": [],
+    "wishlistUrl": null
+  },
+
+  "gallery": [
+    { "url": "https://res.cloudinary.com/dil28lwom/image/upload/c_limit,w_1200,q_auto,f_auto/v1795249837/eumkixactrwq9cx2ghb2.jpg", "alt": "The celebrants" },
+    { "url": "https://res.cloudinary.com/dil28lwom/image/upload/c_limit,w_1200,q_auto,f_auto/v1795250013/cmw7gqq3be77q1tdfex6.jpg", "alt": "Photo of the celebrants" },
+    { "url": "https://res.cloudinary.com/dil28lwom/image/upload/c_limit,w_1200,q_auto,f_auto/v1795250018/det10bjtxb5sfaugofd5.jpg", "alt": "Photo of the celebrants" },
+    { "url": "https://res.cloudinary.com/dil28lwom/image/upload/c_limit,w_1200,q_auto,f_auto/v1795251635/qmr7t7sadp0gp77ag8jo.jpg", "alt": "Photo of the celebrants" }
+  ],
+
+  "contact": {
+    "phone": "09012561284",
+    "phoneInternational": "+2349012561284"
+  }
+}
